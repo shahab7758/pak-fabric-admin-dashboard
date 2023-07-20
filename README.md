@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [shadui] (https://ui.shadcn.com/)
 - [Clerk](https://clerk.com/)
 - [zustand] (https://www.npmjs.com/package/zustand)
+- [planetscale] (https://planetscale.com/) DB
