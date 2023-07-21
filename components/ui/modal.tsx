@@ -29,7 +29,7 @@ export const Modal: React.FC<ModalProps> = ({
     }
   };
   return (
-    <Dialog open={isOpen} onOpenChange={onchange}>
+    <Dialog open={isOpen} onOpenChange={onChange}>
       <DialogContent>
         <DialogHeader>
           <DialogTitle>{title}</DialogTitle>
