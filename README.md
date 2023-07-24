@@ -39,3 +39,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [Clerk](https://clerk.com/)
 - [zustand] (https://www.npmjs.com/package/zustand)
 - [planetscale] (https://planetscale.com/) DB
+- [Cloudnary] (https://cloudinary.com/) storage
+- [Next Cloudinary] (https://next-cloudinary.spacejelly.dev/installation)
